@@ -141,9 +141,7 @@ function MusicPlayer() {
             />
           </svg>
         </div>
-            
         </div>
-
         </div>
   )
 }
