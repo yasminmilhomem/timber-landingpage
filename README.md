@@ -7,4 +7,4 @@
 - useState;
 - props.
 
-###### Além disso, essa foi minha primeira experiência utilizando a biblioteca em React framer-motion, o componente VisibilitySensor e o framework Tailwind CSS. ######
+##### Além disso, essa foi minha primeira experiência utilizando a biblioteca em React framer-motion, o componente VisibilitySensor e o framework Tailwind CSS. #####
